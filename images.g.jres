@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAA8A8AAAAA8P//8gAAAPAvIiLi7gAALyIiIu/+D/Au4v/+/yQPX+Qiv0FfJPJPRSL+T14k8lRF4u5EXiSyVEXi7kReJLJPRSL+T14k8l/kIr9BXyTy8C7i//7/JA8ALyIiIu/+DwDwLyIi4u4AAADw///yAAAAAAAA8A8AAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "phoenix"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
